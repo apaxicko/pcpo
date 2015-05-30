@@ -1,0 +1,25 @@
+{
+  "name": "pcpo",
+  "version": "1.0.0",
+  "description": "pcpo template",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apaxicko/pcpo.git"
+  },
+  "author": "Vlad Diachenko",
+  "bugs": {
+    "url": "https://github.com/apaxicko/pcpo/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-connect": "^2.2.0",
+    "gulp-csso": "^1.0.0",
+    "gulp-less": "^3.0.3",
+    "gulp-livereload": "^3.8.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "path": "^0.11.14"
+  }
+}
